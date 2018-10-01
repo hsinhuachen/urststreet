@@ -1,0 +1,200 @@
+{
+  "segments": {
+    "sidewalk": "Jalkakäytävä",
+    "sidewalk-tree": "Jalkakäytävä ja puu",
+    "bike-rack": "Pyöräpysäköinti",
+    "bench": "Penkki",
+    "wayfinding-sign": "Opastetaulu",
+    "sidewalk-lamp": "Jalkakäytävä valaisinpylväällä",
+    "parklet": "Puistoruutu",
+    "divider": "Erotuskaista",
+    "planting-strip": "Viherkaista",
+    "planter-box": "Kukkaruukku",
+    "median": "Mediaani",
+    "bollard": "Sulkutolppa",
+    "dome": "Tienrajakiila",
+    "bike-lane": "Pyöräkaista",
+    "parking-lane": "Pysäköintikaista",
+    "perpendicular-parking": "Sivuttaispysäköinti",
+    "angled-parking": "Vinottaispysäköinti",
+    "flex-zone": "Joustava vyöhyke",
+    "taxi-pick-up": "Taksin nouto-/jättöpaikka",
+    "rideshare-pick-up": "Kimppakyydin nouto-/jättöpaikka",
+    "bikeshare-station": "Kaupunkipyöräasema",
+    "foodtruck": "Ruokarekka",
+    "flex-zone-curb": "Nouto-/jättöpaikka",
+    "drive-lane": "Ajokaista",
+    "sharrow": "Sekakaista",
+    "turn-lane": "Kääntymiskaista",
+    "turn-lane-straight": "Ei kääntymiskaista",
+    "turn-lane-center": "Keskikääntymiskaista",
+    "bus-lane": "Linja-autokaista",
+    "bus-lane-shared": "Linja-auto-pyöräkaista",
+    "streetcar": "Katuraitiotie",
+    "light-rail": "Pikaraitiotie",
+    "transit-shelter": "Pysäkkikatos",
+    "inception-train": "Inception-juna"
+  },
+  "descriptions": {
+    "wayfinding-sign": {
+      "prompt": "Lisätietoa kävelyopasteista",
+      "lede": "Kävelyopasteet helpottavat oikean reitin löytämistä.",
+      "text": [
+        "Kaupunkisuunnittelijat ja arkkitehdit ovat jo vuosia yrittäneet ottaa selkoa aivoissamme tapahtuvasta prosessista, kun yritämme hahmottaa reittiä kahden paikan välillä - ja jopa sitä, miten hahmotamme edes lähtöpisteen sijainnin kartalla. Vuonna 1960 kaupunkisuunnittelija Kevin Lynch kirjoitti kirjassaan <em><a href=\"http://www.amazon.com/Image-Harvard-MIT-Center-Studies-Series/dp/0262620014\">The Image of the City</a></em> (Kaupungin kuva) ihmisen kyvystä \"lukea kaupunkia\" johdonmukaisesti ja tarkkaan rajatusti aistimalla ympäristöään. Tällainen toiminta voi perustua abstrakteihin ärsykkeisiin, kuten hajuun, kosketukseen ja painovoiman tunteeseen tai varsinaisiin suunnistamista helpottaviin kohteisiin, kuten karttoihin, kadunnumeroihin ja opasteisiin.",
+        "Autoliikenteen opastusjärjestelmälle löytyy laajaa, jopa itsestään selvää tukea, kun taas jalankulun opasteita on tähän verraten yllättävän vähän. Ehkä se johtuu vauhdista, sillä kävellen eksyessä on helppo pysähtyä havainnoimaan ympäristöä aiheuttamatta ketjukolaria. Pikku hiljaa kehitystä on kuitenkin tapahtunut, ja jalankulkuopasteita on asennettu erityisesti vilkkaille, ostospainotteisille jalankulun vyöhykkeille. Toiminnallisuuden lisäksi kaupungit pyrkivät erottumaan luomalla yhtenäistä, houkuttelevaa ilmettä; New Yorkissa <a href=\"https://www.pentagram.com/work/walknyc/story\">kaupunki palkkasi kansainvälisesti arvostetun suunnittelukonsultin (englanniksi)</a>, ja muualla on suosittu esimerkiksi vanhankaupungin innoittamia tai asukaslähtöisiä (kuva yllä) ratkaisuja. Toki löytyy niitäkin, jotka jostain syystä eivät ole kokeneet tarpeelliseksi minkääntasoisen opastusjärjestelmän käyttöönottoa, vaikka <a href=\"http://walkyourcity.org/\">vaihtoehdot voivat olla myös nopeita ja halpoja (en)</a>.",
+        "Kyse ei ole kuitenkaan sen enempää kuin vähempääkään käyttäjän tappiosta, sillä Lynchin sanoin: \"<em>Eksyminen</em> ei ole pelkästään maantieteelliseen sijaintiin liittyvää epätarkkuutta; siihen liittyy sanoinkuvaamatonta epäonnistumisen ja onnettomuuden tunnetta.\" Kuka haluaa silloin seistä keskellä vierasta katua?"
+      ]
+    },
+    "parklet": {
+      "prompt": "Lisätietoa puistoruuduista (parkleteista)",
+      "imageCaption": "4033 Judah Street Parklet, San Franciscon kaupungin suunnitteluosasto.",
+      "lede": "Puistoruuduilla eli parkleteilla entiset pysäköintiruudut muuttuvat väliaikaisesti julkiseksi tilaksi.",
+      "text": [
+        "Vuonna 2005 sanfranciscolainen suunnittelutoimisto <a href=\"http://rebargroup.org/\">Rebar</a> muutti väliaikaisesti yhden pysäköintiruudun Mission Street -kadulla pieneksi puistoksi. Ensimmäinen puistoruutu koostui yksinkertaisesti penkistä, puusta ja turvepohjasta, mutta mukana oli myös vinkkejä ja ohjeita muille omien puistoruutujen luomisinnovointia varten. Asukkaiden havahtuminen pysäköinnin vaatimaan valtavaan tilantarpeeseen antoi lähtölaukaisun kansainväliselle ilmiölle, vuosittaiselle <a href=\"https://www.facebook.com/PARKing-Day-71298180414\">Park(ing)-päivälle</a>, jota vietetään tuhansissa kaupungeissa ympäri maailmaa.",
+        "Mullistavan innovaation tunnistettuaan San Francisco oli etunenässä vuonna 2010 virallistamassa puistoruutuja <a href=\"http://sfpavementtoparks.sfplanning.org/\">Pavement to Parks program</a> (Päällysteistä puistoiksi) -ohjelmallaan. Nykyään kaupungissa on yli 50 puistoruutua, joista monet ovat nyt arkkitehtuurisia nähtävyyksiä Rebarin vaatimattomien luonnosteluiden hengen mukaiseksi. Kaupungin vilkkaimmalla ostoskadulla kaksi parkkiruutua on muutettu näyttäväksi puistoruuduksi yritysten sponsoroimana, ja lisäksi kaupungilla on kokoelma siirrettäviä, <a href=\"http://www.ybcbd.org/\">kirkkaan punaisia \"puistoruukkuja\"</a>, jotka ovat myös Streetmixin oletusnäkymä puistoruuduille. Lukuisien pohjoisamerikkalaisten kaupunkien lisäksi puistoruutuja löytyy pitkin Eurooppaa, myös Helsingistä."
+      ]
+    },
+    "bike-lane": {
+      "prompt": "Lisätietoa pyöräkaistoista",
+      "lede": "Pyöräkaistoilla pyöräilijät etenevät omassa tilassaan, omalla vauhdillaan autoista erotettuna.",
+      "text": [
+        "Henkilöliikenteen aikajanan toisessa päässä hevoset, toisessa vaikkapa Segwayt, mutta aina kaksi kulkumuotoa ovat olleet ylitse muiden: polkupyörät ja autot ovat dominoineet katutilaamme yli vuosisadan ajan. Autot vievät enemmän tilaa lukumäärää kohden, mutta pyörien lukumäärä on omaa luokkaansa, sillä Worldometersin mukaan maailmassa on yli miljardi polkupyörää. <a href=\"http://en.wikipedia.org/wiki/Nine_Million_Bicycles\">Katie Meluan kappaleen</a> sanoin Kiinan Pekingissä on yhdeksän miljoonaa polkupyörää, ja pyöräilyn kulkutapaosuus on 32 %.",
+        "Vaikka lainsäädäntö yleensä sallii pyöräilijän käytää samaa ajorataa moottoriajoneuvoliikenteen kanssa (esimerkiksi <a href=\"https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21200.\">Kalifornian tieliikennelaissa</a> todetaan \"Polkupyörää kuljettavaan sovelletaan kaikkia oikeuksia ja velvollisuuksia siinä missä muunkin ajoneuvon kuljettajaan\"), suurin osa pyöräilijöistä arvostaa enemmän omaa väylää. Kohentunut liikenneturvallisuus houkuttelee yhä useampia pyöräilemään, mikä edistää kansanterveyttä, vähentää hiilidioksidipäästöjä, sujuvoittaa liikennettä ja vähentää ruuhkia. <a href=\"https://bikeleague.org/sites/default/files/Bicycling_and_the_Economy-Econ_Impact_Studies_web.pdf\">Yhteiskuntataloudelliset hyödyt ovat merkittäviä</a>: tehottomaan autoinfrastuktuuriin sijoitettu pääoma ei ole yhtä kannattavaa, sillä se heikentää liiketoiminnan edellytyksiä.",
+        "Pyöräkaistojen ominaisuuksissa on suurta vaihtelua. Erottelukaistoilla, viheralueilla, sulkutolpilla ja vaikkapa pysäköintitaskulla voidaan luoda parempaa erottelua autojen ja pyörien välille. Kaupunki voi osoittaa sitoutumistaan pyöräilyolosuhteiden kehittämiseen maalaamalla pyöräkaistat vihreiksi ja luomalla pyöräilijöille niin sanotun vihreän aallon liikennevaloihin. Lisätietoa yhdysvaltalaisittain löytyy <a href=\"http://nacto.org/cities-for-cycling/design-guide/\">NACTO:n nykyaikaisten pyöräväylien suunnitteluoppaasta</a> ja suomalaisittain <a href=\"http://www.pyoraliikenne.fi\">Helsingin kaupungin pyöräliikenteen suunnitteluoppaasta</a>."
+      ]
+    },
+    "colored-bike-lane": {
+      "prompt": "Lisätietoa värjätyistä pyöräkaistoista",
+      "lede": "Värjätyt pyöräkaistat erottuvat paremmin ja ovat pyöräilijälle turvallisempia.",
+      "text": [
+        "Päivittäisen asiointipyöräilyn lisääntyessä pyöräliikenneturvallisuuden varmistaminen muuttuu yhä tärkeämmäksi. Esimerkiksi pyöräilijöiden ja autoilijoiden kohtaamistilanteet ja autoilijoiden pyöräilijöille tarkoitettujen alueiden väärinkäyttö ovat ongelmia, mikä yleensä johtuu pyöräilijöiden olemassaolon tiedostuneisuuden puutteesta. Ratkaisuna on tehdä pyöräilystä mahdollisimman näkyvää, ja yksi keino tämän tavoitteen saavuttamiseksi on värjätä pyörätiet eriväriseksi kuin muut katutilan osat.",
+        "Värjättyjen pyöräkaistojen hyödyt on todistettu <a href=\"https://nacto.org/publication/urban-bikeway-design-guide/bikeway-signing-marking/colored-bike-facilities\">lukuisissa tutkimuksissa</a>, mutta itse <em>värivalinnasta</em> on montaa mielipidettä: Suomessa ja Ruotsissa suositaan Hollannin tapaan punaista, Tanskassa sinistä ja Ranskassa vihreää. Iso-Britanniassa käytetään sekä punaista että vihreää, ja myös Yhdysvalloissa vihreä väri on noussut yleisimmäksi - tosin Yhdysvaltain pyöräilyparatiisi Portlandissa <a href=\"http://www.portlandoregon.gov/transportation/article/58842\">pyöräkaistat ovat olleet sinisiä</a> jo 1990-luvulta lähtien.",
+        "Ei värillä väliä: tärkeintä on valita mahdollisimman silmiinpistävä väri, joka erottuu ympäristöstään. Myös kustannuskysymys erityisesti ylläpidon suhteen on merkillepantava: laajimmin käytetty, edullinen maalipinta haalistuu ja lopulta kuoriutuu pois verrattain nopeasti, vaikka tekniikka sen suhteen onkin kehittynyt. Jos juoksevat ylläpitokustannukset hirvittävät, turvallisuutta voi kohentaa vaikkapa <a href=\"http://peopleforbikes.org/green-lane-project/protected-bike-lanes-101\">suojatolpilla</a>."
+      ]
+    },
+    "sharrow": {
+      "prompt": "Lisätietoa sekakaistoista",
+      "lede": "Sekakaista on sekä moottoriajoneuvoille että erikseen pyörille osoitettu kadunosa.",
+      "text": [
+        "Liikennesuunnittelussa sekakaistojen englanninkielinen nimitys <em>sharrow</em> (tulee sanoista shared ja arrow; jaettu ja nuoli) viittaa merkintätapaan, mutta juridisesti väylä ei eroa mitenkään merkitsemättömästä ajokaistasta. Jos varsinaista pyörätietä ei ole, pyöräily tapahtuu aina ajoradalla yhteisillä säännöillä. Suomessa tieliikennelaki ei tunne erityistä merkintää sekakaistan pyöräilymerkityksen korostamiseksi.",
+        "Maallikkokin ymmärtää, että autoilijoiden ja pyöräilijöiden tarpeet ja liikennekäyttäytyminen eroavat toisistaan, joten erilliset pyöräväylät ovat pyöräilijöiden terveyden ja autoilijoiden mielenterveyden etu. Aina katutila ei kuitenkaan riitä erillisten pyöräväylien rakentamiseen, jolloin useimpien pyöräilijöiden mielestä sekakaistat ovat tyhjää parempi. Tämä ajattelumalli perustuu siihen, että pyöräilijöiden on toisinaan hyvä viestiä olemassaolostaan liikenneturvallisuuden parantamiseksi. Leveämpi sivuväistämistila ehkäisee myös niin sanottuja ovenavausonnettomuuksia, joissa pyöräilijä törmää autonovensa avaavaan pysäköijään.",
+        "Sekakaistamerkinnät ovat näppärä tapa lisätä pyöräilyn näkyvyyttä, sillä maali on väylänrakennusta halvempaa ja poliittisesti läpivietävämpää. Tutkimusten (muun muassa <a href=\"http://injuryprevention.bmj.com/content/early/2013/02/13/injuryprev-2012-040561.full.pdf\">Torontossa ja Vancouverissa vuonna 2012 tehdyn</a>) mukaan sekakaistojen turvallisuus ei kuitenkaan ole vastaavalla tasolla kuin erillisten pyöräväylien. Tarinan opetus olkoon siis se, että pyöräilijöille tulisi ensisijaisesti suunnitella oma väylä."
+      ]
+    },
+    "transit-shelter-elevated": {
+      "prompt": "Lisätietoa korotetuista pysäkeistä",
+      "lede": "Korotetut pysäkit soveltuvat raitiotie- ja runkolinja-autoliikenteelle.",
+      "text": [
+        "Joissakin nopeaa matka-aikaa tavoittelevissa raitiotie- ja raskaammissa runkolinja-autojärjestelmissä korotetulla pysäkkikorkeudella voi olla iso merkitys. Tällöin kulkuneuvon ja laiturin välissä ei ole tasoeroa, jolloin lastaaminen nopeutuu ja esteettömyys esimerkiksi pyörätuolinkäyttäjille kohenee. Kriittiset sekunnit kerääntyvät matkan varrelta merkittävinä kustannus- ja aikasäästöinä.",
+        "Yleensä korotettuja laitureita käyttävät joukkoliikennevälineet kulkevat myös omilla kaistoillaan, joten pysäkit sijaitsevat erotuskaistoilla muusta liikenteestä erotettuna. Vastakkaisten suuntien ajokaistojen väliin sijoitettuna ne mahdollistavat sujuvat vaihdot laiturin yli - Streetmixissäkin tämä onnistuu, kunhan lisäät kaksi pysäkkiä vierekkäin ja käännät ne selät vastakkain.",
+        "Korotetut pysäkkilaiturit ovat tyypillisesti vilkkaita, ja niitä saatetaankin kehittää voimakkaasti asematyyppiseksi ratkaisuksi esimerkiksi kattamalla ne kokonaan ja merkitsemällä ne selkeästi katukuvassa. Korotettu laituri on kuitenkin hieman kalliimpi rakentaa, ja se vaatii enemmän tilaa päihin tulevien luiskien takia. Lisäksi matalakalustoisen linja-autoliikenteen yleistyessä tarve korotetuille laitureille vähenee."
+      ]
+    },
+    "inception-train": {
+      "lede": "Juna Christopher Nolanin elokuvasta <em>Inception</em>.",
+      "text": [
+        "Mistä haluat tietää lisää?"
+      ]
+    }
+  },
+  "buildings": {
+    "waterfront": {
+      "name": "Rantaviiva"
+    },
+    "grass": {
+      "name": "Ruohokenttä"
+    },
+    "fence": {
+      "name": "Tyhjä tontti"
+    },
+    "parking-lot": {
+      "name": "Pysäköintialue"
+    },
+    "residential": {
+      "name": "Kerrostalo"
+    },
+    "narrow": {
+      "name": "Rakennus"
+    },
+    "wide": {
+      "name": "Rakennus"
+    }
+  },
+  "variant-icons": {
+    "orientation|left": "Vasemmalla",
+    "orientation|right": "Oikealla",
+    "turn-lane-orientation|left": "Vasemmalle",
+    "turn-lane-orientation|left-straight": "Vasemmalle ja suoraan",
+    "turn-lane-orientation|straight": "Suoraan",
+    "turn-lane-orientation|right-straight": "Oikealle ja suoraan",
+    "turn-lane-orientation|right": "Oikealla",
+    "turn-lane-orientation|both": "Molemmat",
+    "turn-lane-orientation|shared": "Jaettu",
+    "bench-orientation|left": "Vasemmalla",
+    "bench-orientation|right": "Oikealle",
+    "bench-orientation|center": "Keskellä",
+    "parking-lane-orientation|left": "Vasen",
+    "parking-lane-orientation|right": "Oikealle",
+    "parking-lane-direction|inbound": "Sinuun päin",
+    "parking-lane-direction|outbound": "Poispäin",
+    "parking-lane-direction|sideways": "Sivuttainen",
+    "parking-lane-direction|angled-front-left": "Vinottainen",
+    "parking-lane-direction|angled-front-right": "Vinottainen",
+    "parking-lane-direction|angled-rear-left": "Vinottainen",
+    "parking-lane-direction|angled-rear-right": "Vinottainen",
+    "direction|inbound": "Sinuun päin",
+    "direction|outbound": "Poispäin",
+    "sidewalk-density|empty": "Tyhjä",
+    "sidewalk-density|sparse": "Väljä",
+    "sidewalk-density|normal": "Normaali",
+    "sidewalk-density|dense": "Vilkas",
+    "lamp-orientation|left": "Vasemmalle",
+    "lamp-orientation|both": "Molemmat",
+    "lamp-orientation|right": "Oikealle",
+    "lamp-type|traditional": "Perinteinen",
+    "lamp-type|modern": "Moderni",
+    "lamp-type|pride": "Moderni pride-julisteella",
+    "car-type|car": "Auto",
+    "car-type|sharrow": "Sekakaista",
+    "car-type|truck": "Kuorma-auto",
+    "public-transit-asphalt|regular": "Asfaltti",
+    "public-transit-asphalt|colored": "Punainen asfaltti",
+    "bus-asphalt|regular": "Asfaltti",
+    "bus-asphalt|colored": "Punainen asfaltti",
+    "bus-asphalt|shared": "Linja-auto-pyöräkaista",
+    "bike-asphalt|regular": "Asfaltti",
+    "bike-asphalt|green": "Vihreä asfaltti",
+    "bike-asphalt|red": "Punainen asfaltti",
+    "tree-type|big": "Puu",
+    "tree-type|palm-tree": "Palmu",
+    "divider-type|median": "Mediaani",
+    "divider-type|striped-buffer": "Raidoitettu töyssy",
+    "divider-type|planting-strip": "Viherkaista",
+    "divider-type|planter-box": "Kukkaruukku",
+    "divider-type|bush": "Viherkaista pensaalla",
+    "divider-type|flowers": "Viherkaista kukkaistutuksilla",
+    "divider-type|big-tree": "Viherkaista puulla",
+    "divider-type|palm-tree": "Viherkaista palmulla",
+    "divider-type|bollard": "Sulkutolppa",
+    "divider-type|dome": "Tienrajakiila",
+    "transit-shelter-elevation|street-level": "Katutaso",
+    "transit-shelter-elevation|light-rail": "Pikaraitiotiepysäkki",
+    "bike-rack-elevation|sidewalk-parallel": "Pitkittäispysäköinti jalkakäytävän tasossa",
+    "bike-rack-elevation|sidewalk": "Sivuttaispysäköinti jalkakäytävän tasossa",
+    "bike-rack-elevation|road": "Sivuttaispysäköinti katutasossa",
+    "building|waterfront": "Rantaviiva",
+    "building|grass": "Ruohokenttä",
+    "building|fence": "Tyhjä tontti",
+    "building|parking-lot": "Pysäköintialue",
+    "building|residential": "Kerrostalo",
+    "building|narrow": "Kapea rakennus",
+    "building|wide": "Leveä rakennus",
+    "wayfinding-type|large": "Suuri",
+    "wayfinding-type|medium": "Keskikokoinen",
+    "wayfinding-type|small": "Pieni",
+    "waiting-area|sparse": "Joku",
+    "waiting-area|empty": "Ei kukaan",
+    "flex-type|rideshare": "Kimppakyyti",
+    "flex-type|taxi": "Taks"
+  }
+}

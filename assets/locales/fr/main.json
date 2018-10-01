@@ -1,0 +1,316 @@
+{
+  "menu": {
+    "item": {
+      "help": "Aide",
+      "about": "A propos de Streetmix…",
+      "contact": "Contact",
+      "community": "Communauté",
+      "contribute": "Contribuer",
+      "sign-in": "Se connecter",
+      "sign-out": "Se déconnecter",
+      "new-street": "Nouvelle rue",
+      "my-streets": "Mes rues",
+      "settings": "Paramètres",
+      "share": "Partager"
+    },
+    "help": {
+      "keyboard-label": "Raccourcis claviers :",
+      "remove": "Enlever un élément de voirie que vous pointez<br /> (maintenir la touche <kbd class='key'>Shift</kbd> enfoncée pour tout enlever)",
+      "move": "Passer d'un segment de rue à un autre<br />(maintenir <kbd class='key'>Shift</kbd> appuyé pour atteindre les extrémités)",
+      "change": "Changer la largeur d'un élément de voirie pointé<br />(maintenir <kbd class='key'>Shift</kbd>pour plus de précision)"
+    },
+    "share": {
+      "sign-in-twitter-link": "Se connecter",
+      "sign-in-link": "{signInLink} pour accéder plus facilement à vos rues et à votre galerie personnelle de rues",
+      "sign-in": "<a href='#'>Connectez-vous</a> pour une obtenir un lien vers les rues et galerie de rues vous concernant",
+      "link": "Copier et coller ce lien pour le partager :",
+      "twitter": "Partager en utilisant Twitter",
+      "facebook": "Partager par Facebook",
+      "print": "Imprimer…",
+      "save": "Sauver en tant qu'image…",
+      "save-byline": "Pour inclure dans un rapport, un blogue, etc.",
+      "messages": {
+        "my-street": "Découvrez ma rue, {streetName}, sur Streetmix !",
+        "my-street-unnamed": "Découvrez ma rue sur Streetmix !",
+        "someone-elses-street": "Découvrez {streetName} par {streetCreator} sur Streetmix !",
+        "someone-elses-street-unnamed": "Découvrez cette rue par {streetCreator} sur Streetmix !",
+        "anonymous-creator-street": "Découvrez {streetName} sur Streetmix !",
+        "anonymous-creator-street-unnamed": "Découvrez cette rue sur Streetmix !"
+      }
+    },
+    "contact": {
+      "forums": "Discuter sur les forums",
+      "twitter": "Envoyez un tweet à @streetmix",
+      "email": "Envoyer un e-mail à la team Streetmix",
+      "github": "Voir le code source sur GitHub",
+      "blog": "Visitez le blog Streetmix",
+      "slack": "Rejoindre le chat sur Slack"
+    },
+    "contribute": {
+      "donate": "Donner",
+      "stickers": "Acheter une feuille d'autocollant !",
+      "opensource": "Contribuer à l'open source"
+    },
+    "feedback": {
+      "prompt": "Envoyez nous un message :",
+      "message-placeholder": "Que pensez-vous de Streetmix ?",
+      "email-placeholder": "Votre e-mail (optionnel)",
+      "send": "Envoyer un messager",
+      "confirm": "Bien reçu. Merci !",
+      "error": "Nous sommes désolés, une erreur c'est produite lors de l'envoie de votre commentaire. Veuillez ré-essayer plus tard."
+    },
+    "sign-in": {
+      "twitter": "Se connecter à Twitter"
+    }
+  },
+  "settings": {
+    "units": {
+      "label": "Unités",
+      "metric": "Unités métriques (mètres)",
+      "imperial": "Unités impériales (pieds)"
+    },
+    "language": {
+      "label": "Langue"
+    }
+  },
+  "msg": {
+    "loading": "Chargement…",
+    "remixing": "Remélanger…",
+    "having-trouble": "Il y a un problème…",
+    "no-street": "Aucune rue sélectionnée.",
+    "trouble-loading": "Nous avons rencontré des problèmes lors du chargement de Streetmix.",
+    "slow-connection-1": "Streetmix n'a pas été en mesure de se connecter à internet depuis un moment.",
+    "slow-connection-2": "Vous pouvez recharger la page et essayer à nouveau. Veuillez noter qu'il est possible que vous perdiez les dernières modifications sur la rue. Désolé !",
+    "no-connection": "Streetmix rencontre des problèmes de connection à internet.",
+    "more-info": "Plus d'informations"
+  },
+  "error": {
+    "button": {
+      "home": "Aller à la page d'accueil",
+      "sign-in": "Se connecter de nouveau",
+      "reload": "Recharger la page",
+      "try-again": "Ré-essayer",
+      "view-example": "Voir un exemple de rue"
+    },
+    "page-not-found-title": "Page non trouvée.",
+    "page-not-found-description": "Oh. Il n'y a pas de page à cette adresse !",
+    "street-not-found-title": "Rue non trouvée.",
+    "street-not-found-description": "Oh zut. Il n'y a pas de rue avec ce lien !",
+    "street-not-found-but-user-description": "Il n'y a pas de rue avec ce lien ! Mais vous pouvez regarder les autres rues de {user}",
+    "street-deleted-title": "Cette rue a été supprimée.",
+    "street-deleted-description": "Il n'y a plus de rue avec ce lien, mais vous pouvez regarder les autres rues avec {user}",
+    "sign-out-title": "Vous êtes maintenant déconnecté.",
+    "reload-sign-out-title": "Vous vous êtes déconnecté dans une autre fenêtre.",
+    "gallery-street-failure-description": "Nous avons rencontré des problèmes lors du chargement de cette rue.",
+    "reload-sign-in-title": "Vous vous êtes connecté dans une autre fenêtre.",
+    "please-reload": "Veuillez recharger cette page avant de continuer.",
+    "street-deleted-elsewhere-title": "Cette rue a été supprimée ailleurs.",
+    "street-deleted-elsewhere-description": "Cette rue a été supprimée dans un autre navigateur.",
+    "access-denied-title": "Vous n'êtes pas connecté.",
+    "access-denied-description": "",
+    "auth-api-problem-title": "Il y a eu un problème avec votre identification.",
+    "auth-api-problem-description": "Il y a eu un problème avec l'authentification.",
+    "please-try-again": "Veuillez réessayer plus tard ou nous le signaler via <a target='_blank' rel='noopener noreferrer' href='{email}'>email</a> ou <a target='_blank' rel='noopener noreferrer' href='{tweet}'>Twitter</a>.",
+    "unsupported-browser-title": "Streetmix ne fonctionne pas sur votre navigateur.",
+    "unsupported-browser-description": "Nous sommes désolés. Vous pouvez essayer <a target='_blank' rel='noopener noreferrer' href='{chromeUrl}'>Chrome</a>, <a target='_blank' rel='noopener noreferrer' href='{mozillaUrl}'>Firefox</a>, <a target='_blank' rel='noopener noreferrer' href='{edgeUrl}'>Microsoft Edge</a>, ou Safari.",
+    "unsupported-browser-internet-explorer": "Êtes-vous sur Internet Explorer? <a target='_blank' rel='noopener noreferrer' href='{readmeIEUrl}'>En savoir plus.</a>",
+    "unsupported-browser-contact-us": "Si vous pensez que votre navigateur devrait être pris en charge, veuillez nous contacter via <a target='_blank' rel='noopener noreferrer' href='{email}'>email</a>.",
+    "cannot-create-new-street-on-phone-title": "Streetmix fonctionne uniquement sur les tablettes et les ordinateurs de bureau.",
+    "cannot-create-new-street-on-phone-description": "Si vous suivez un autre lien vers une rue spécifique, vous pouvez l'afficher sur votre téléphone - mais vous ne pouvez pas encore créer de nouvelles rues.",
+    "generic-error-title": "Il y a un problème.",
+    "generic-error-description": "Nous sommes désolés – il y a eu un problème.",
+    "error-code": "(Code d'erreur {code}.)"
+  },
+  "btn": {
+    "reload": "Recharger",
+    "undo": "Annuler",
+    "redo": "Rétablir",
+    "try-again": "Ré-essayer",
+    "cancel": "Annuler",
+    "create": "Créer une rue",
+    "copy": "Faire une copie",
+    "remove": "Retirer",
+    "close": "Fermer",
+    "dismiss": "Rejeter"
+  },
+  "dialogs": {
+    "error": {
+      "heading": "Oops !",
+      "text": "Quelque chose d'inattendu s'est produit 😢. Nous avons enregistré l'erreur, mais si vous vous souvenez de ce qui s'est passé à ce stade, <a href=\"https://github.com/streetmix/streetmix/issues/new\" target=\"_blank\" rel=\"noopener noreferrer\">veuillez nous en informer</a>. Ça peut aussi être un problème temporaire, veuillez réessayer."
+    },
+    "welcome": {
+      "heading": "Bienvenue dans Streetmix.",
+      "new": {
+        "intro": "Concevez, remixez et partagez la rue e votre quartier. Ajoutez des arbres ou des pistes cyclables, des trottoirs ou des routes. Découvrez comment votre décision peut impacter la communauté.",
+        "instruct": "Commencez par déplacer des éléments de voirie avec {pointer}.",
+        "instruct-pointer-finger": "votre doigt",
+        "instruct-pointer-mouse": "votre sourie"
+      },
+      "existing": {
+        "intro": "{streetName} créé par {creator}.",
+        "intro-without-creator": "C'est {streetName}.",
+        "instruct": "Remixez la rue en déplaçant des éléments de voirie, ou {startYourOwnStreet}.",
+        "instruct-start-own-street": "Créer votre propre rue"
+      }
+    },
+    "new-street": {
+      "heading": "Voici votre nouvelle rue.",
+      "default": "Commencez avec un exemple ",
+      "empty": "Commencez avec une rue vide",
+      "last": "Commencez avec une copie de la dernière rue"
+    },
+    "about": {
+      "heading": "Au sujet de Streetmix.",
+      "description": "Concevez, modifiez et partagez votre rue. Ajoutez chemins piétons, trottoirs et voirie automobile, apprenez comment cela peut impacter votre communauté.",
+      "thanks": "Nous remercions beaucoup l'équipe et  les collègues du 2013 CfA pour leur support et leur patience, l'équipe Blockee pour avoir ouvert la voie à cette application et tous les testeurs pour leur temps et leur retours !",
+      "credits": "Un projet parallèle par {cfaLink} 2013 collaborateurs :",
+      "team-heading": "Équipe de projet et mainteneurs",
+      "view-source": "Voir le code source",
+      "sponsored-by": "Streetmix est généreusement sponsorisé par :",
+      "donate-link": "Aider nous financièrement",
+      "github-link": "Contribuer à l'open source"
+    },
+    "save": {
+      "heading": "Sauver en tant qu'image",
+      "option-labels": "Les noms des éléments de voirie et leurs largeurs",
+      "option-name": "Nom de rue",
+      "option-sky": "Ciel transparent",
+      "loading": "Chargement…",
+      "save-button": "Enregistrer sur votre ordinateur…",
+      "license": "Cette image créée sur Streetmix peut être réutilisée n'importe où, pour n'importe quel usage, sous la <br><a href='{url}'>Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International</a>.",
+      "error-preview": "Une erreur s'est produite lors de l'affichage de l’aperçu.",
+      "error-unavailable": "L'enregistrement en tant qu'image n'est pas possible sur ce navigateur.",
+      "preview-image-alt": "Aperçu"
+    },
+    "geotag": {
+      "search": "Chercher un emplacement",
+      "clear-search": "Effacer la recherche",
+      "zoom-in": "Agrandir",
+      "zoom-out": "Dézoomer",
+      "add-location": "Ajouter un emplacement",
+      "confirm-location": "Confirmer l'emplacement",
+      "clear-location": "Effacer l'emplacement",
+      "unknown-location": "Emplacement inconnu"
+    },
+    "donate": {
+      "heading": "Streetmix a besoin de votre aide !",
+      "lede": "Streetmix est un projet qui est supporté par ça communauté. Contrairement aux autres services « gratuit » sur internet, nous n'affichons pas de publiclité ni n'injectons des traceurs qui abuse de voter vie privé.  Nous dépendons de votre support pour maintenir Streetmix en vie.",
+      "text": "Nous vous demandons de bien vouloir nous soutenir par une contribution unique ou récurrente. Votre don financera nos serveurs et notre infrastructure de cloud, en soutenant d'autres organisations à but non lucratif, des groupes de défense et des étudiants œuvrant pour l’amélioration de nos rues. Des revenus complémentaires seront investis dans le développement de nouvelles fonctionnalités. Nos dépenses sont totalement transparentes, vous pouvez ainsi voir exactement de quelle manière vos contributions sont utilisées par l'équipe de Streetmix.",
+      "button": "Donner à Streetmix",
+      "cancel": "Non merci"
+    }
+  },
+  "prompt": {
+    "new-street": "Nouveau nom de rue :",
+    "delete-street": "Êtes-vous sûr de vouloir supprimer {streetName} de manière permanente ? Ceci ne pourra être annulé.",
+    "new-width": "Nouvelle largeur de rue (entre {minWidth} et {maxWidth}) :"
+  },
+  "toast": {
+    "segment-deleted": "Les éléments de voirie ont été enlevés.",
+    "all-segments-deleted": "Tous les éléments de voirie ont été enlevés.",
+    "no-undo": "Rien à annuler.",
+    "no-redo": "Rien à refaire.",
+    "no-save": "Il n'est pas nécessaire de sauvegarder manuellement ; Streetmix sauvegarde automatiquement votre rue !",
+    "remixing": "Vous modifiez un double de la rue originale. Le double a été ajouté à votre galerie.",
+    "remixing-sign-in": "Vous modifiez un double de la rue originale. Connectez-vous pour commencer à utiliser votre propre galerie de rue.",
+    "reloaded": "Votre rue a été rechargée depuis le serveur, car elle a été modifiée ailleurs."
+  },
+  "palette": {
+    "remove": "Glisser ici pour enlever"
+  },
+  "width": {
+    "label": "{width} de largeur",
+    "under": "({width} libre)",
+    "over": "({width} supérieur à l'espace disponible)",
+    "occupied": "Largeur occupée :",
+    "building": "Largueur disponible :",
+    "different": "Largeur personnalisée…",
+    "metric": "Passer aux unités métriques",
+    "imperial": "Passer aux unités impériales (pieds)"
+  },
+  "datetime": {
+    "minutes-ago": "Il y a quelques minutes",
+    "seconds-ago": "Il y a quelques secondes",
+    "yesterday": "Hier à {time}",
+    "today": "Aujourd'hui à {time}"
+  },
+  "key": {
+    "backspace": "Backspace",
+    "shift": "Touche majuscule"
+  },
+  "tooltip": {
+    "remove-segment": "Enlever les éléments de voirie",
+    "delete-street": "Supprimer la rue",
+    "segment-width": "Changer la largeur de l'élément de voirie",
+    "building-height": "Changer le nombre d'étages",
+    "street-width": "Changer la largeur de la rue",
+    "increase-width": "Augmenter la largeur (Maintenir Shift enfoncé pour obtenir plus de précision)",
+    "decrease-width": "Diminuer la largeur (maintenir Shift enfoncé pour obtenir plus de précision)",
+    "add-floor": "Ajouter un étage",
+    "remove-floor": "Retirer un étage"
+  },
+  "street": {
+    "default-name": "Rue non nommée",
+    "rename": "Cliquez pour renommer"
+  },
+  "building": {
+    "floors-count": "{count, plural, one {# étage} other {# étages}}"
+  },
+  "segments": {
+    "warnings": {
+      "does-not-fit": "Cet élément de voirie ne s'insère pas dans la route.",
+      "not-wide": "Cet élément de voirie pourrait ne pas être suffisant.",
+      "too-wide": "Cet élément de voirie pourrait être trop large."
+    },
+    "learn-more": "Apprenez en davantage",
+    "unknown": {
+      "label": "Inconnu"
+    },
+    "description": {
+      "photo-credit": "Photo :"
+    },
+    "resize": {
+      "min": "",
+      "max": ""
+    }
+  },
+  "section": {
+    "empty": "Espace vide"
+  },
+  "gallery": {
+    "fail": "Échec du chargement de la galerie.",
+    "all": "Toutes les rues",
+    "twitter-link": "Profil Twitter",
+    "delete-street-tooltip": "Supprimer la rue",
+    "street-count": "{count, plural, one {# rue} other {# rues}}",
+    "no-streets": "Aucune rue pour le moment",
+    "sign-in": "Se connecter à Twitter pour avoir accès à votre galerie de rues personnelles",
+    "sign-in-prompt": ""
+  },
+  "users": {
+    "anonymous": "Anonyme",
+    "byline": "par {user}"
+  },
+  "meta": {
+    "description": "Concevez, remixez et partagez la rue de votre quartier - le tout dans votre navigateur ! Ajoutez des arbres ou des pistes cyclables, élargissez des trottoirs ou des routes. Découvrez comment vos décisions peuvent impacter votre communauté.",
+    "page-title": "{streetName}(par {author})"
+  },
+  "i18n": {
+    "lang": {
+      "ar": "Arabe",
+      "de": "Allemand",
+      "en": "Anglais",
+      "es": "Espagnol",
+      "es-mx": "Espagnol (Mexique)",
+      "fi": "Finlandais",
+      "fr": "Français",
+      "ja": "Japonais",
+      "pl": "Polonais",
+      "pt-br": "Portugais (Brésil)",
+      "ru": "",
+      "sv": "Suédois",
+      "zh-hans": "",
+      "zh-hant": ""
+    }
+  }
+}

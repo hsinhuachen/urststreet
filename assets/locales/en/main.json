@@ -1,0 +1,332 @@
+{
+  "menu": {
+    "item": {
+      "help": "Help",
+      "about": "About Streetmix…",
+      "contact": "Contact",
+      "community": "Community",
+      "contribute": "Contribute",
+      "sign-in": "Sign in",
+      "sign-out": "Sign out",
+      "new-street": "New street",
+      "my-streets": "My streets",
+      "settings": "Settings",
+      "share": "Share"
+    },
+    "help": {
+      "keyboard-label": "Keyboard shortcuts:",
+      "remove": "Remove a segment you’re pointing at<br />(hold <kbd class='key'>Shift</kbd> to remove all)",
+      "move": "Move around the street<br />(hold <kbd class='key'>Shift</kbd> to jump to edges)",
+      "change": "Change width of a segment you’re pointing at<br />(hold <kbd class='key'>Shift</kbd> for more precision)"
+    },
+    "share": {
+      "sign-in-twitter-link": "Sign in",
+      "sign-in-link": "{signInLink} for nicer links to your streets and your personal street gallery",
+      "sign-in": "<a href='#'>Sign in</a> for nicer links to your streets and your personal street gallery",
+      "link": "Copy and paste this link to share:",
+      "twitter": "Share using Twitter",
+      "facebook": "Share using Facebook",
+      "print": "Print…",
+      "save": "Save as image…",
+      "save-byline": "For including in a report, blog, etc.",
+      "messages": {
+        "my-street": "Check out my street, {streetName}, on Streetmix!",
+        "my-street-unnamed": "Check out my street on Streetmix!",
+        "someone-elses-street": "Check out {streetName} by {streetCreator} on Streetmix!",
+        "someone-elses-street-unnamed": "Check out this street by {streetCreator} on Streetmix!",
+        "anonymous-creator-street": "Check out {streetName} on Streetmix!",
+        "anonymous-creator-street-unnamed": "Check out this street on Streetmix!"
+      }
+    },
+    "contact": {
+      "forums": "Discuss on the forums",
+      "twitter": "Send a tweet to @streetmix",
+      "email": "Send an email to Streetmix team",
+      "github": "View source code on GitHub",
+      "blog": "Visit Streetmix blog",
+      "slack": "Join Slack chat"
+    },
+    "contribute": {
+      "donate": "Donate",
+      "stickers": "Buy a sticker sheet!",
+      "opensource": "Contribute to open source"
+    },
+    "feedback": {
+      "prompt": "Send us a message:",
+      "message-placeholder": "What do you think of Streetmix?",
+      "email-placeholder": "Your email (optional)",
+      "send": "Send message",
+      "confirm": "We got it. Thanks!",
+      "error": "We’re sorry, there was a problem sending feedback at this time. Please try again later."
+    },
+    "sign-in": {
+      "twitter": "Sign in with Twitter"
+    }
+  },
+  "settings": {
+    "units": {
+      "label": "Units",
+      "metric": "Metric units (meters)",
+      "imperial": "Imperial units (feet)"
+    },
+    "language": {
+      "label": "Language"
+    }
+  },
+  "msg": {
+    "loading": "Loading…",
+    "remixing": "Remixing…",
+    "having-trouble": "Having trouble…",
+    "no-street": "No street selected.",
+    "trouble-loading": "We’re having trouble loading Streetmix.",
+    "slow-connection-1": "Streetmix wasn’t able to connect to the Internet in awhile now.",
+    "slow-connection-2": "You might want to reload the page and try again. Please note you might lose the latest change to the street. Sorry!",
+    "no-connection": "Streetmix is having trouble connecting to the Internet.",
+    "more-info": "More info"
+  },
+  "error": {
+    "button": {
+      "home": "Go to the homepage",
+      "sign-in": "Sign in again",
+      "reload": "Reload the page",
+      "try-again": "Try again",
+      "view-example": "View an example street"
+    },
+    "page-not-found-title": "Page not found.",
+    "page-not-found-description": "Oh, boy. There is no page with this address!",
+    "street-not-found-title": "Street not found.",
+    "street-not-found-description": "Oh, boy. There is no street with this link!",
+    "street-not-found-but-user-description": "There is no street with this link! But you can look at other streets by {user}",
+    "street-deleted-title": "This street has been deleted.",
+    "street-deleted-description": "There is no longer a street with this link, but you can look at other streets by {user}",
+    "sign-out-title": "You are now signed out.",
+    "reload-sign-out-title": "You signed out in another window.",
+    "gallery-street-failure-description": "We’re having trouble loading this street.",
+    "reload-sign-in-title": "You signed in in another window.",
+    "please-reload": "Please reload this page before continuing.",
+    "street-deleted-elsewhere-title": "This street has been deleted elsewhere.",
+    "street-deleted-elsewhere-description": "This street has been deleted in another browser.",
+    "access-denied-title": "You are not signed in.",
+    "access-denied-description": "You cancelled the sign in process.",
+    "auth-api-problem-title": "There was a problem with signing you in.",
+    "auth-api-problem-description": "There was a problem with authentication.",
+    "please-try-again": "Please try again later or let us know via <a target='_blank' rel='noopener noreferrer' href='{email}'>email</a> or <a target='_blank' rel='noopener noreferrer' href='{tweet}'>Twitter</a>.",
+    "unsupported-browser-title": "Streetmix doesn’t work on your browser.",
+    "unsupported-browser-description": "Sorry about that. You might want to try <a target='_blank' rel='noopener noreferrer' href='{chromeUrl}'>Chrome</a>, <a target='_blank' rel='noopener noreferrer' href='{mozillaUrl}'>Firefox</a>, <a target='_blank' rel='noopener noreferrer' href='{edgeUrl}'>Microsoft Edge</a>, or Safari.",
+    "unsupported-browser-internet-explorer": "Are you on Internet Explorer? <a target='_blank' rel='noopener noreferrer' href='{readmeIEUrl}'>Find out more.</a>",
+    "unsupported-browser-contact-us": "If you think your browser should be supported, please contact us via <a target='_blank' rel='noopener noreferrer' href='{email}'>email</a>.",
+    "cannot-create-new-street-on-phone-title": "Streetmix works on tablets and desktops only.",
+    "cannot-create-new-street-on-phone-description": "If you follow another link to a specific street, you can view it on your phone – but you cannot yet create new streets.",
+    "generic-error-title": "Something went wrong.",
+    "generic-error-description": "We’re sorry – something went wrong.",
+    "error-code": "(Error {code}.)"
+  },
+  "btn": {
+    "reload": "Reload",
+    "undo": "Undo",
+    "redo": "Redo",
+    "try-again": "Try again",
+    "cancel": "Cancel",
+    "create": "Create new street",
+    "copy": "Make a copy",
+    "remove": "Remove",
+    "close": "Close",
+    "dismiss": "Dismiss"
+  },
+  "dialogs": {
+    "error": {
+      "heading": "Oops!",
+      "text": "Something unexpected happened 😢. We’ve logged the error, but if you can remember what happened on the way here, <a href=\"https://github.com/streetmix/streetmix/issues/new\" target=\"_blank\" rel=\"noopener noreferrer\">please tell us about it</a>. This could also be a temporary problem, so please try one more time."
+    },
+    "welcome": {
+      "heading": "Welcome to Streetmix.",
+      "new": {
+        "intro": "Design, remix, and share your neighborhood street. Add trees or bike paths, widen sidewalks or traffic lanes, learn how your decisions can impact your community.",
+        "instruct": "Start by moving some segments around with {pointer}.",
+        "instruct-pointer-finger": "your finger",
+        "instruct-pointer-mouse": "your mouse"
+      },
+      "existing": {
+        "intro": "This is {streetName} made by {creator}.",
+        "intro-without-creator": "This is {streetName}.",
+        "instruct": "Remix it by moving some segments around, or {startYourOwnStreet}.",
+        "instruct-start-own-street": "Start your own street"
+      }
+    },
+    "new-street": {
+      "heading": "Here’s your new street.",
+      "default": "Start with an example street",
+      "empty": "Start with an empty street",
+      "last": "Start with a copy of last street"
+    },
+    "about": {
+      "heading": "About Streetmix.",
+      "description": "Design, remix, and share your street. Add bike paths, widen sidewalks or traffic lanes, learn how all of this can impact your community.",
+      "thanks": "Many thanks to the staff and 2013 CfA fellows for their support and patience, the Blockee team for paving the way, and all of our testers for their time and feedback!",
+      "credits": "A side project by {cfaLink} 2013 fellows:",
+      "team-heading": "Project team and maintainers",
+      "view-source": "View source code",
+      "sponsored-by": "Streetmix is generously sponsored by:",
+      "donate-link": "Support us financially",
+      "github-link": "Contribute to open source"
+    },
+    "save": {
+      "heading": "Save as image",
+      "option-labels": "Segment names and widths",
+      "option-name": "Street name",
+      "option-sky": "Transparent sky",
+      "loading": "Loading…",
+      "save-button": "Save to your computer…",
+      "license": "This Streetmix-created image may be reused anywhere, for any purpose, under the <br><a href='{url}'>Creative Commons Attribution-ShareAlike 4.0 International License</a>.",
+      "error-preview": "There was an error displaying a preview image.",
+      "error-unavailable": "Saving to image is not available on this browser.",
+      "preview-image-alt": "Preview"
+    },
+    "geotag": {
+      "search": "Search for a location",
+      "clear-search": "Clear search",
+      "zoom-in": "Zoom in",
+      "zoom-out": "Zoom out",
+      "add-location": "Add location",
+      "confirm-location": "Confirm location",
+      "clear-location": "Clear location",
+      "unknown-location": "Unknown location"
+    },
+    "donate": {
+      "heading": "Streetmix needs your help!",
+      "lede": "Streetmix is a community-supported project. Unlike other “free” services on the Internet, we do not show ads or inject trackers that abuse your privacy. Instead, we depend on your support to keep Streetmix up and running.",
+      "text": "Please consider supporting us with a one-time or recurring contribution. Your donation will pay for our servers and cloud infrastructure, supporting other non-profits, advocacy groups, and students working to improve our streets. Additional revenue will be invested into further development of new features. Our expenses are completely transparent, so you can see exactly how your contributions are used by the Streetmix team.",
+      "button": "Donate to Streetmix",
+      "cancel": "No thanks"
+    },
+    "sign-in": {
+      "heading": "Sign in / Sign up",
+      "description": "Save your first design or sign in to access your past designs.",
+      "email-label": "Email",
+      "email-description": "We’ll send you a link to sign in. No password is required.",
+      "social-heading": "or",
+      "button": {
+        "email": "Continue with email",
+        "twitter": "Continue with Twitter",
+        "google": "Continue with Google",
+        "facebook": "Continue with Facebook"
+      },
+      "tos": "By clicking one of these buttons, I agree to the {tosLink} and {privacyLink}.",
+      "tos-link-label": "terms of service",
+      "privacy-link-label": "privacy policy"
+    }
+  },
+  "prompt": {
+    "new-street": "New street name:",
+    "delete-street": "Are you sure you want to permanently delete {streetName}? This cannot be undone.",
+    "new-width": "New street width (from {minWidth} to {maxWidth}):"
+  },
+  "toast": {
+    "segment-deleted": "The segment has been removed.",
+    "all-segments-deleted": "All segments have been removed.",
+    "no-undo": "Nothing to undo.",
+    "no-redo": "Nothing to redo.",
+    "no-save": "No need to save by hand; Streetmix automatically saves your street!",
+    "remixing": "Now editing a freshly-made duplicate of the original street. The duplicate has been put in your gallery.",
+    "remixing-sign-in": "Now editing a freshly-made duplicate of the original street. Sign in to start your own gallery of streets.",
+    "reloaded": "Your street was reloaded from the server as it was modified elsewhere."
+  },
+  "palette": {
+    "remove": "Drag here to remove"
+  },
+  "width": {
+    "label": "{width} width",
+    "under": "({width} room)",
+    "over": "({width} over)",
+    "occupied": "Occupied width:",
+    "building": "Building-to-building width:",
+    "different": "Different width…",
+    "metric": "Switch to metric units",
+    "imperial": "Switch to imperial units (feet)"
+  },
+  "datetime": {
+    "minutes-ago": "A few minutes ago",
+    "seconds-ago": "A few seconds ago",
+    "yesterday": "Yesterday at {time}",
+    "today": "Today at {time}"
+  },
+  "key": {
+    "backspace": "Backspace",
+    "shift": "Shift"
+  },
+  "tooltip": {
+    "remove-segment": "Remove segment",
+    "delete-street": "Delete street",
+    "segment-width": "Change width of the segment",
+    "building-height": "Change the number of floors",
+    "street-width": "Change width of the street",
+    "increase-width": "Increase width (hold Shift for more precision)",
+    "decrease-width": "Decrease width (hold Shift for more precision)",
+    "add-floor": "Add floor",
+    "remove-floor": "Remove floor"
+  },
+  "street": {
+    "default-name": "Unnamed St",
+    "rename": "Click to rename"
+  },
+  "building": {
+    "floors-count": "{count, plural, one {# floor} other {# floors}}"
+  },
+  "segments": {
+    "warnings": {
+      "does-not-fit": "This segment doesn’t fit within the street.",
+      "not-wide": "This segment might not be wide enough.",
+      "too-wide": "This segment might be too wide."
+    },
+    "learn-more": "Learn more",
+    "unknown": {
+      "label": "Unknown"
+    },
+    "description": {
+      "photo-credit": "Photo:"
+    },
+    "resize": {
+      "min": "Min",
+      "max": "Max"
+    }
+  },
+  "section": {
+    "empty": "Empty space"
+  },
+  "gallery": {
+    "fail": "Failed to load the gallery.",
+    "all": "All streets",
+    "twitter-link": "Twitter profile",
+    "delete-street-tooltip": "Delete street",
+    "street-count": "{count, plural, one {# street} other {# streets}}",
+    "no-streets": "No streets yet",
+    "sign-in": "Sign in with Twitter for your personal street gallery",
+    "sign-in-prompt": "Sign in to see your personal street gallery"
+  },
+  "users": {
+    "anonymous": "Anonymous",
+    "byline": "by {user}"
+  },
+  "meta": {
+    "description": "Design, remix, and share your neighborhood street – all in your browser! Add trees or bike paths, widen sidewalks or traffic lanes, learn how your decisions can impact your community.",
+    "page-title": "{streetName} (by {author})"
+  },
+  "i18n": {
+    "lang": {
+      "ar": "Arabic",
+      "de": "German",
+      "en": "English",
+      "es": "Spanish",
+      "es-mx": "Spanish (Mexico)",
+      "fi": "Finnish",
+      "fr": "French",
+      "ja": "Japanese",
+      "pl": "Polish",
+      "pt-br": "Portuguese (Brazil)",
+      "ru": "Russian",
+      "sv": "Swedish",
+      "zh-hans": "Simplified Chinese",
+      "zh-hant": "Traditional Chinese"
+    }
+  }
+}

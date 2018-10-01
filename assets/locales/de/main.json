@@ -1,0 +1,316 @@
+{
+  "menu": {
+    "item": {
+      "help": "",
+      "about": "",
+      "contact": "",
+      "community": "",
+      "contribute": "",
+      "sign-in": "",
+      "sign-out": "",
+      "new-street": "",
+      "my-streets": "",
+      "settings": "",
+      "share": ""
+    },
+    "help": {
+      "keyboard-label": "",
+      "remove": "",
+      "move": "",
+      "change": ""
+    },
+    "share": {
+      "sign-in-twitter-link": "",
+      "sign-in-link": "",
+      "sign-in": "",
+      "link": "",
+      "twitter": "",
+      "facebook": "",
+      "print": "",
+      "save": "Als Bild speichern…",
+      "save-byline": "",
+      "messages": {
+        "my-street": "",
+        "my-street-unnamed": "",
+        "someone-elses-street": "",
+        "someone-elses-street-unnamed": "",
+        "anonymous-creator-street": "",
+        "anonymous-creator-street-unnamed": ""
+      }
+    },
+    "contact": {
+      "forums": "",
+      "twitter": "",
+      "email": "",
+      "github": "",
+      "blog": "",
+      "slack": ""
+    },
+    "contribute": {
+      "donate": "",
+      "stickers": "",
+      "opensource": ""
+    },
+    "feedback": {
+      "prompt": "",
+      "message-placeholder": "",
+      "email-placeholder": "",
+      "send": "",
+      "confirm": "",
+      "error": ""
+    },
+    "sign-in": {
+      "twitter": ""
+    }
+  },
+  "settings": {
+    "units": {
+      "label": "",
+      "metric": "",
+      "imperial": ""
+    },
+    "language": {
+      "label": ""
+    }
+  },
+  "msg": {
+    "loading": "Laden…",
+    "remixing": "",
+    "having-trouble": "",
+    "no-street": "",
+    "trouble-loading": "",
+    "slow-connection-1": "",
+    "slow-connection-2": "",
+    "no-connection": "",
+    "more-info": ""
+  },
+  "error": {
+    "button": {
+      "home": "",
+      "sign-in": "",
+      "reload": "",
+      "try-again": "",
+      "view-example": ""
+    },
+    "page-not-found-title": "",
+    "page-not-found-description": "",
+    "street-not-found-title": "",
+    "street-not-found-description": "",
+    "street-not-found-but-user-description": "",
+    "street-deleted-title": "",
+    "street-deleted-description": "",
+    "sign-out-title": "",
+    "reload-sign-out-title": "",
+    "gallery-street-failure-description": "",
+    "reload-sign-in-title": "",
+    "please-reload": "",
+    "street-deleted-elsewhere-title": "",
+    "street-deleted-elsewhere-description": "",
+    "access-denied-title": "",
+    "access-denied-description": "",
+    "auth-api-problem-title": "",
+    "auth-api-problem-description": "",
+    "please-try-again": "",
+    "unsupported-browser-title": "",
+    "unsupported-browser-description": "",
+    "unsupported-browser-internet-explorer": "",
+    "unsupported-browser-contact-us": "",
+    "cannot-create-new-street-on-phone-title": "",
+    "cannot-create-new-street-on-phone-description": "",
+    "generic-error-title": "",
+    "generic-error-description": "",
+    "error-code": ""
+  },
+  "btn": {
+    "reload": "",
+    "undo": "Rückgängig",
+    "redo": "Wiederherstellen",
+    "try-again": "",
+    "cancel": "",
+    "create": "",
+    "copy": "",
+    "remove": "",
+    "close": "",
+    "dismiss": ""
+  },
+  "dialogs": {
+    "error": {
+      "heading": "",
+      "text": ""
+    },
+    "welcome": {
+      "heading": "Willkommen bei Streetmix.",
+      "new": {
+        "intro": "Gestalte, verändere und teile Deine Nachbarschaftsstraße. Ergänz' Bäume oder Fahrradwege, erweitere die Fußwege oder Fahrspuren, und erfahre, wie sich Deine Entscheidungen auf Deine Nachbarschaft auswirken können.",
+        "instruct": "Bewege Teile der Straße mit {pointer}.",
+        "instruct-pointer-finger": "Deinem Finger",
+        "instruct-pointer-mouse": "Deiner Maus"
+      },
+      "existing": {
+        "intro": "Das ist {streetName}, erstellt von {creator}.",
+        "intro-without-creator": "Das ist {streetName}.",
+        "instruct": "Verändere es, indem Du Teile der Straße bewegst, oder {startYourOwnStreet}.",
+        "instruct-start-own-street": "Beginne mit einer eigenen Straße"
+      }
+    },
+    "new-street": {
+      "heading": "Hier ist Deine neue Straße.",
+      "default": "Beginne mit einer Beispiel-Straße",
+      "empty": "Beginne mit einer leeren Straße",
+      "last": "Beginne mit einer Kopie der letzten Straße"
+    },
+    "about": {
+      "heading": "",
+      "description": "",
+      "thanks": "",
+      "credits": "",
+      "team-heading": "",
+      "view-source": "",
+      "sponsored-by": "",
+      "donate-link": "",
+      "github-link": ""
+    },
+    "save": {
+      "heading": "Als Bild speichern",
+      "option-labels": "",
+      "option-name": "Straßenname",
+      "option-sky": "Transparenter Himmel",
+      "loading": "Laden…",
+      "save-button": "Speichere es auf Deinem Computer…",
+      "license": "Dieses mit Streetmix erstellte Bild darf überall, für jeden Zweck unter der <br><a href='{url}'>Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</a> verwendet werden.",
+      "error-preview": "",
+      "error-unavailable": "",
+      "preview-image-alt": ""
+    },
+    "geotag": {
+      "search": "",
+      "clear-search": "",
+      "zoom-in": "",
+      "zoom-out": "",
+      "add-location": "",
+      "confirm-location": "",
+      "clear-location": "",
+      "unknown-location": ""
+    },
+    "donate": {
+      "heading": "",
+      "lede": "",
+      "text": "",
+      "button": "",
+      "cancel": ""
+    }
+  },
+  "prompt": {
+    "new-street": "",
+    "delete-street": "",
+    "new-width": ""
+  },
+  "toast": {
+    "segment-deleted": "",
+    "all-segments-deleted": "",
+    "no-undo": "",
+    "no-redo": "",
+    "no-save": "",
+    "remixing": "",
+    "remixing-sign-in": "",
+    "reloaded": ""
+  },
+  "palette": {
+    "remove": "Zum entfernen nach hier ziehen"
+  },
+  "width": {
+    "label": "",
+    "under": "",
+    "over": "",
+    "occupied": "",
+    "building": "",
+    "different": "",
+    "metric": "",
+    "imperial": ""
+  },
+  "datetime": {
+    "minutes-ago": "",
+    "seconds-ago": "",
+    "yesterday": "",
+    "today": ""
+  },
+  "key": {
+    "backspace": "",
+    "shift": ""
+  },
+  "tooltip": {
+    "remove-segment": "",
+    "delete-street": "",
+    "segment-width": "",
+    "building-height": "",
+    "street-width": "",
+    "increase-width": "",
+    "decrease-width": "",
+    "add-floor": "",
+    "remove-floor": ""
+  },
+  "street": {
+    "default-name": "",
+    "rename": ""
+  },
+  "building": {
+    "floors-count": "{count, plural, one {} other {}}"
+  },
+  "segments": {
+    "warnings": {
+      "does-not-fit": "",
+      "not-wide": "",
+      "too-wide": ""
+    },
+    "learn-more": "",
+    "unknown": {
+      "label": ""
+    },
+    "description": {
+      "photo-credit": ""
+    },
+    "resize": {
+      "min": "",
+      "max": ""
+    }
+  },
+  "section": {
+    "empty": "Leerer Raum"
+  },
+  "gallery": {
+    "fail": "",
+    "all": "",
+    "twitter-link": "",
+    "delete-street-tooltip": "",
+    "street-count": "{count, plural, one {} other {}}",
+    "no-streets": "",
+    "sign-in": "",
+    "sign-in-prompt": ""
+  },
+  "users": {
+    "anonymous": "",
+    "byline": ""
+  },
+  "meta": {
+    "description": "",
+    "page-title": ""
+  },
+  "i18n": {
+    "lang": {
+      "ar": "",
+      "de": "",
+      "en": "",
+      "es": "",
+      "es-mx": "",
+      "fi": "",
+      "fr": "",
+      "ja": "",
+      "pl": "",
+      "pt-br": "",
+      "ru": "",
+      "sv": "",
+      "zh-hans": "",
+      "zh-hant": ""
+    }
+  }
+}
