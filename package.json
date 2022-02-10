@@ -120,7 +120,7 @@
     "mongoose": "5.1.6",
     "newrelic": "4.2.0",
     "node-env-file": "0.1.8",
-    "node-sass": "4.9.0",
+    "node-sass": "7.0.0",
     "oauth": "0.9.15",
     "postcss": "6.0.23",
     "postcss-import": "11.1.0",
